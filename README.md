@@ -18,3 +18,5 @@ Here we aim to create a script that searches for houses in the Masovian Voivodes
 A python extension is created in order to retrieve this data from the SQLite database to a normal pandas dataframe.
 
 ### Stage 3: Load (to be continued...)
+
+We intend to create a dash webapp to present some data analytics on the data stored in the SQLite database
