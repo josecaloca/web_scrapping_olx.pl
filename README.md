@@ -11,7 +11,7 @@ Before starting, make sure you have downloaded the repository and installed the 
 
 ### Stage 1: Extract
 
-Here we aim to create a script that searches for houses in the Masovian Voivodeship on [olx.pl](olx.pl) and saves the data on a SQLite database.
+Here we aim to create a script that searches for houses in the Masovian Voivodeship on [olx.pl](https://www.olx.pl/nieruchomosci/mieszkania/sprzedaz) and saves the data on a SQLite database.
 
 ### Stage 2: Transform
 
