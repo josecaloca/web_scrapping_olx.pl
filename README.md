@@ -21,7 +21,7 @@ A python extension is created in order to retrieve this data from the SQLite dat
 
 We intend to create a dashboard to present some data analytics on the data stored in the SQLite database.
 
-The final interactive report can be visualised by clicking [here](https://datastudio.google.com/reporting/1e2a72ec-2acb-4855-8028-e08f19c97a3e), or by opening the PDF file in this repository 
+The final interactive report can be visualised by clicking [here](https://datastudio.google.com/reporting/7f4d5919-73d4-4e2f-81b3-3bd05f590c49), or by opening the PDF file in this repository 
 
 Final thoughts:
 
