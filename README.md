@@ -2,7 +2,7 @@
 
 The aim of this project is to show an example of ETL (Extract - Transform - Load) using web scrapping, SQLite database, and dash for final product visualisation dashboarding.
 
-## This project is divided in 2 stages.
+## This project is divided in 3 stages.
 
 Before starting, make sure you have downloaded the repository and installed the following packages in your python environment:
 - beautifulsoup
