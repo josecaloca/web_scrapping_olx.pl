@@ -27,4 +27,4 @@ df = df.drop(df[df['price'] > np.mean(df['price']) + 3*np.std(df['price'])].inde
 
 df
 
-df.to_csv('database.csv', encoding="utf-8") 
+df.to_csv('/database/database_tabular.csv', encoding="utf-8") 
