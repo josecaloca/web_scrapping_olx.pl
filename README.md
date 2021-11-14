@@ -17,13 +17,13 @@ Here we aim to create a script that searches for house offers for the largest po
 
 A python extension is created in order to retrieve this data from the SQLite database to a normal pandas dataframe and some string transformation is taking place to ensure clean data for visualisation purposes.
 
-### Stage 3: Load (to be continued...)
+### Stage 3: Load
 
 We intend to create a dashboard to present some data analytics on the data stored in the SQLite database.
 
 The final interactive report can be visualised by clicking [here](https://datastudio.google.com/reporting/7f4d5919-73d4-4e2f-81b3-3bd05f590c49), or by opening the PDF file in this repository 
 
-Final thoughts:
+### Final thoughts:
 
 - It seems that the house market in Poland is very dynamic around the area of the Mazovian Voivodeship since most of the offers are concentrated in this area.
 - Between of the rest of the cities, the distribution of houses is quite similar and the amount of house offered doesn't vary much.
